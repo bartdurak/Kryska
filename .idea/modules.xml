@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonaci/Fibonaci.iml" filepath="$PROJECT_DIR$/Fibonaci/Fibonaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graf/Graf.iml" filepath="$PROJECT_DIR$/Graf/Graf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kolejka_tab/Kolejka_tab.iml" filepath="$PROJECT_DIR$/Kolejka_tab/Kolejka_tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Koszykarz/Koszykarz.iml" filepath="$PROJECT_DIR$/Koszykarz/Koszykarz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Podyplomowe.iml" filepath="$PROJECT_DIR$/.idea/Podyplomowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quicksort/Quicksort.iml" filepath="$PROJECT_DIR$/Quicksort/Quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reszta_wydawanie2/Reszta_wydawanie2.iml" filepath="$PROJECT_DIR$/Reszta_wydawanie2/Reszta_wydawanie2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stos_tab/Stos_tab.iml" filepath="$PROJECT_DIR$/Stos_tab/Stos_tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie_liczba/Zadanie_liczba.iml" filepath="$PROJECT_DIR$/Zadanie_liczba/Zadanie_liczba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funkcje2/funkcje2.iml" filepath="$PROJECT_DIR$/funkcje2/funkcje2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kolejka/kolejka.iml" filepath="$PROJECT_DIR$/kolejka/kolejka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silnia/silnia.iml" filepath="$PROJECT_DIR$/silnia/silnia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stos_java_util/stos_java_util.iml" filepath="$PROJECT_DIR$/stos_java_util/stos_java_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyszukiwanie_binarne/wyszukiwanie_binarne.iml" filepath="$PROJECT_DIR$/wyszukiwanie_binarne/wyszukiwanie_binarne.iml" />
+    </modules>
+  </component>
+</project>
